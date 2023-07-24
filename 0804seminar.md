@@ -22,3 +22,9 @@ connecting them.
 
 - Nobody has solved mobile FL. Doing mobile FL research sucks.
 - Mobile FL is crucial. Everyone relies on their phone so much.
+
+## How you can engage with us
+
+- We are looking for collaboration using FL.
+- We are continuously looking for new members.
+- We will soon be looking for participants in our experiments.
