@@ -1,6 +1,10 @@
 \documentclass{article}
 \usepackage[a4paper, margin=0.75in]{geometry}
 \usepackage{multicol}
+\usepackage{tikz}
+\usepackage{float}
+\usepackage{graphicx}
+\usetikzlibrary{shapes, arrows, positioning}
 \title{FedCampus: Summer Research Report}
 \author{
     Steven Hé (Sīchàng), Beilong Tang, Aicha Slaitane\\
@@ -72,7 +76,8 @@ facilitate Android on-device ML training, and communicate with our
 backend using Flutter (``Flutter'', n.d.) HTTP and gRPC (``gRPC'', n.d.)
 libraries.
 
-Our FL workflow includes the following three steps:
+Our FL workflow includes the following three steps, as illustrated in Figure
+\ref{fig:fl-workflow}:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -92,6 +97,30 @@ Our FL workflow includes the following three steps:
   to the backend.
   \end{quote}
 \end{enumerate}
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+    \node[draw, minimum height=4cm] at (0, 0) {App};
+    \node[draw, minimum height=4cm] at (6, 0) {Backend};
+    \draw[-stealth] (0.5, 1.5) node[above right]{Requests for ML model} --
+                    (5.0, 1.5);
+    \draw[stealth-] (0.5, 1.4) -- node[below right]{ML model $X$}
+                    (5.0, 1.4);
+    \draw[-stealth] (0.5, 0.0) node[above right]{Requests to train $X$} --
+                    (5.0, 0.0);
+    \draw[stealth-] (0.5,-0.1) -- node[below]{Flower server to train $X$}
+                    (5.0,-0.1);
+    \draw[stealth-] (4.5,-1.0) node[below left, draw]{Flower server} --
+                    (5.0,-0.1);
+    \draw[stealth-stealth] (0.5,-1.2) node[above right]{Train $X$} --
+                           (2.1,-1.2);
+    \draw[-stealth] (0.5,-1.7) node[below right]{Training telemetry} --
+                    (5.0,-1.7);
+\end{tikzpicture}
+\caption{FL workflow}
+\label{fig:fl-workflow}
+\end{figure}
 
 \subsection{Sleep Efficiency ML Model}
 
@@ -160,6 +189,13 @@ the background once opened by the user, minimizing user interaction.
 Incorporating DP, The App also demonstrates FA by showing the users the
 average value of each health data metric and their ranking.
 
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.1]{fedcampus-app.jpg}
+\caption{Health page in The FedCampus App}
+\label{fig:app}
+\end{figure}
+
 \section{Conclusion}
 
 The FedCampus project endeavors to establish an innovative
@@ -178,6 +214,7 @@ If our paper is accepted, we will perform live demonstrations of our
 work at the 38th Annual AAAI Conference on Artificial Intelligence.
 \end{multicols}
 
+\pagebreak
 \section{References}
 \begin{quote}
 
