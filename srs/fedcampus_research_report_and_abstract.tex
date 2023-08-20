@@ -1,5 +1,6 @@
 \documentclass{article}
-\usepackage[a4paper, margin=1in]{geometry}
+\usepackage[a4paper, margin=0.75in]{geometry}
+\usepackage{multicol}
 \title{FedCampus: Summer Research Report}
 \author{
     Steven Hé (Sīchàng), Beilong Tang, Aicha Slaitane\\
@@ -23,6 +24,9 @@ efficiency prediction ML models. To date, The App is in alpha testing
 phase and we anticipate to launch it in the fall semester.
 \end{abstract}
 
+
+\setlength{\columnsep}{0.25in}
+\begin{multicols}{2}
 \section{Introduction}
 
 The FedCampus project aims to create a privacy-preserving data platform
@@ -137,7 +141,7 @@ interchangeability of ML models employed for FL training. The FedKit
 client generates telemetry data about the training progress, empowering
 comprehensive analysis of training performance.
 
-\subsection{Sleep efficiency prediction ML model}
+\subsection{Sleep efficiency prediction model}
 
 We developed two sleep efficiency prediction models, for either same-day
 or next-day prediction. Both models have high performance during
@@ -171,6 +175,7 @@ driving towards an inclusive smart campus.
 We plan to submit our systems work to the AAAI-24 Demonstration Program.
 If our paper is accepted, we will perform live demonstrations of our
 work at the 38th Annual AAAI Conference on Artificial Intelligence.
+\end{multicols}
 
 \section{References}
 \begin{quote}
