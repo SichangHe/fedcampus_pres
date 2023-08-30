@@ -27,15 +27,34 @@ Alternative: Steps on non-Huawei Android with non-Huawei smartwatch via Google:
 
 #### FL with FedKit client
 
-### Physical server
+- Backend communication: HTTP
+- On-device training
+    - Android: TensorFlow Lite
+    - iOS: CoreML (WIP)
+- Flower server communication: gRPC
+
+### Physical server at DKU
+
+- Accessible only on DKU network
+- VM + container
 
 #### FedKit backend server
+
+- Django REST Framework: persistent service + scheduler
+- Flower: actual FL work
 
 #### FA server
 
 ## How to implement FedCampus-CUHK(SZ)
 
 ### FedCampus app for CUHK(SZ)
+
+Human resources:
+
+- Mobile app development/ general programming skills
+    - Will write Flutter + Kotlin (maybe Swift)
+- API documentation reading
+    - Obtain health data from Amazfit
 
 #### Obtain health data from Amazfit smartwatch
 
@@ -47,3 +66,15 @@ Alternative: Steps on non-Huawei Android with non-Huawei smartwatch via Google:
 - ✅ iOS using Apple Health and Flutter Health package
     - Synchronize Zepp to Apple Health
 - ❓ Non-Huawei Android via Amazfit API (exists?)
+
+#### FedKit client
+
+No change needed
+
+### Physical server at CUHK(SZ)
+
+- Accessible only on CUHK(SZ) network
+
+Human resources (optional):
+
+- Deployment experience
