@@ -1,0 +1,8 @@
+We present FedKit, a federated learning (FL) system tailored for cross-platform
+FL research on Android and iOS devices. FedKit pipelines cross-platform FL
+development by enabling model conversion, hardware-accelerated training,
+and cross-platform model aggregation. Our FL workflow supports flexible
+machine learning operations (MLOps) in production, facilitating continuous
+model delivery and training. We have deployed FedKit in a real-world use
+case for health data analysis on university campuses, demonstrating its
+effectiveness. FedKit is open-source at https://github.com/FedCampus/FedKit.
