@@ -1,8 +1,16 @@
-We present FedKit, a federated learning (FL) system tailored for cross-platform
-FL research on Android and iOS devices. FedKit pipelines cross-platform FL
-development by enabling model conversion, hardware-accelerated training,
-and cross-platform model aggregation. Our FL workflow supports flexible
-machine learning operations (MLOps) in production, facilitating continuous
-model delivery and training. We have deployed FedKit in a real-world use
-case for health data analysis on university campuses, demonstrating its
-effectiveness. FedKit is open-source at https://github.com/FedCampus/FedKit.
+FedKit: Enabling Cross-Platform Federated Learning for Android and iOS
+
+Federated learning (FL) on mobile devices has been a hot research topic because
+of its huge potentials in harnessing end user data while preserving their
+privacy.  At the FedCampus project, we built an FL platform to experiment
+with nearly 100 real users' health data via their personal mobile devices
+on a day-to-day basis.  However, most existing "mobile" FL systems merely
+run simulations on desktop computers, while the ones that do run on mobile
+devices suffer from various limitations.  For us, the important limitations
+include the lack of iOS support, proprietary backend servers, and manual
+model deployment.  Therefore, on top of Flower, we developed FedKit, an FL
+system tailored for cross-platform FL research on Android and iOS devices.
+We demonstrate deploying Python-based models, FL training on Android and iOS,
+and model aggregation across platforms, all using FedKit.  We discuss the
+challenges in FedKit's approach to addresses the aforementioned limitations.
+FedKit is open-source, and much of our work has been upstreamed to Flower.
