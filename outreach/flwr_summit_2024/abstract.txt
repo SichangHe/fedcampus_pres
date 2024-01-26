@@ -1,5 +1,10 @@
 FedKit: Enabling Cross-Platform Federated Learning for Android and iOS
 
+Federated learning (FL) has huge potentials in harnessing end user data
+while preserving their privacy.  To experiment with these privacy-preserving
+technologies, the FedCampus project is building a data platform connecting
+around 100 real users' daily health data.  Although FL
+
 Federated learning (FL) on mobile devices has been a hot research topic because
 of its huge potentials in harnessing end user data while preserving their
 privacy.  At the FedCampus project, we built an FL platform to experiment
