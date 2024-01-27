@@ -1,9 +1,21 @@
 FedKit: Enabling Cross-Platform Federated Learning for Android and iOS
 
-Federated learning (FL) has huge potentials in harnessing end user data
-while preserving their privacy.  To experiment with these privacy-preserving
-technologies, the FedCampus project is building a data platform connecting
-around 100 real users' daily health data.  Although FL
+Despite of the promises, FL has largely been limited to lab experiments
+and use by large companies.  Thus, at the FedCampus project, we built a
+privacy-preserving data platform to connect around 100 real users' daily
+health data.  However, to deploy FL in such real-world setting, we faced
+challenging requirements that existing accessible FL systems could not meet.
+These challenges include cross-platform mobile support (especially iOS),
+accessible model deployment strategies, and fine-grain deployment control.
+Therefore, building on top of Flower, we developed FedKit, an open-source FL
+system tailored for cross-platform FL research on Android and iOS devices.
+In the process, we developed a cross-platform and continuous model
+deployment/training pipeline, and contributed to Flower's mobile support.
+Our approach demonstrates how Flower's ubiquity even enables FL training and
+aggregation across Android and iOS, while exploring the current limitations
+of real-world mobile FL.
+
+---
 
 Federated learning (FL) on mobile devices has been a hot research topic because
 of its huge potentials in harnessing end user data while preserving their
