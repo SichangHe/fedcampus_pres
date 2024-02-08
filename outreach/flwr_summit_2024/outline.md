@@ -1,0 +1,23 @@
+# Flower Summit FedCampus Talk Outline
+
+- Description
+- Motivation
+- Technical requirements
+    - Support Android + iOS
+    - Avoid app update for deploying changes
+    - Good user experience
+- Obtaining data
+- FedKit: FL SDK
+    - Flower FL servers
+        - Why Flower framework
+    - Coordinator Backend (Django)
+        - Subprocesses & separate ports
+    - TFLite on Android
+    - CoreML on iOS
+        - ~~Limitations~~
+    - Model conversion
+        - Additional model information
+    - Aggregate TFLite and CoreML models
+- The FedCampus App
+    - Flutter
+    - Foreground processing
