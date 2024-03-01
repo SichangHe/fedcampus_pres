@@ -13,26 +13,23 @@
         - Avoid app update for deploying changes
         - Good user experience
     - Design
-        - Obtaining data
+        - Data flow
         - Foreground processing
         - Flutter UI
+- From The FedCampus to FedKit
+    - Cross-platform FL
+    - MLOps
+    - Efficient training
 - FedKit: FL SDK for FedCampus
-    - Flower in FedKit
+    - FL operations on top of Flower
         - Why the Flower framework
-            - Fully open
+            - Fully open & extensible
             - Android/iOS examples
+    - Cross-platform model pipeline (can reduce)
+        - Flow diagram
+        - APIs
+        - Aggregating TFLite & Core ML
+    - MLOps: continuous model deployment & training
         - Manage Flower servers with Django Backend
             - subprocesses & separate ports
-            - Database management (ORM)
-            - REST APIs
-    - On-device training
-        - TFLite on Android
-            - Updated Android example upstream
-        - CoreML on iOS
-            - Bug we found: not updating model
-            - ~~Limitations~~
-        - Acceleration
-        - Flower is agnostic to ML framework
-    - Model conversion and aggregation
-        - Additional model information
-        - Aggregate TFLite and CoreML models
+        - MLOps steps
