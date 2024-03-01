@@ -1,12 +1,7 @@
-# Flower Summit FedCampus Talk Outline
+# Flower Summit FedCampus Talk Outline (Second Half)
 
 - The FedCampus project
-    - Description
-    - Motivation
-    - Research needs
-        - Data access
-        - Local data processing
-        - Development iteration
+    - …
 - The FedCampus App
     - Technical requirements
         - Support Android + iOS
@@ -33,3 +28,12 @@
         - Manage Flower servers with Django Backend
             - subprocesses & separate ports
         - MLOps steps
+
+---
+
+Meet with Prof Lane:
+
+- 12min + 3min Q&A
+- focus on ourself
+- problem - solution - evaluation
+- poster: with 5min video
