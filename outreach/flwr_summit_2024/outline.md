@@ -1,20 +1,29 @@
 # Flower Summit FedCampus Talk Outline (Second Half)
 
-- The FedCampus project
-    - …
-- The FedCampus App
-    - Technical requirements
-        - Support Android + iOS
-        - Avoid app update for deploying changes
-        - Good user experience
-    - Design
-        - Data flow
-        - Foreground processing
-        - Flutter UI
-- From The FedCampus to FedKit
-    - Cross-platform FL
-    - MLOps
-    - Efficient training
+Meet with Prof Lane:
+
+- 12min + 3min Q&A
+- focus on ourself
+- problem - solution - evaluation
+- poster: with 5min video
+
+---
+
+## Talk Outline
+
+- How to access training data
+    - Data flow
+- How to train models: FedKit
+    - Support Android + iOS
+    - App updates for model changes
+    - User experience
+- When to train models
+    - Foreground processing
+
+---
+
+## Poster Outline
+
 - FedKit: FL SDK for FedCampus
     - FL operations on top of Flower
         - Why the Flower framework
@@ -31,9 +40,14 @@
 
 ---
 
-Meet with Prof Lane:
+## Not Used
 
-- 12min + 3min Q&A
-- focus on ourself
-- problem - solution - evaluation
-- poster: with 5min video
+- The FedCampus project overview
+    - Platform for FA & FL on smartphones
+    - Health data from smartwatches
+- The FedCampus App
+    - Flutter UI
+- From The FedCampus to FedKit
+    - Cross-platform FL
+    - MLOps
+    - Efficient training
