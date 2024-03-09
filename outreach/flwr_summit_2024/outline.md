@@ -11,14 +11,24 @@ Meet with Prof Lane:
 
 ## Talk Outline
 
+Fences: only about FL in FedCampus
+
 - How to access training data
     - Data flow
-- How to train models: FedKit
-    - Support Android + iOS
-    - App updates for model changes
-    - User experience
+    - App
+        - Story: how we adopted Flutter
+- How to train models
+    - Story: how we transitioned from an FL service to Flower
+    - Needs
+        - Support Android + iOS
+        - App updates for model changes
+        - User experience
+    - FedKit
+        - Cross-platform model pipeline
+        - MLOps: continuous model deployment & training
 - When to train models
     - Foreground processing
+        - Story: how we gave up background jobs
 
 ---
 
