@@ -20,8 +20,8 @@ Fences: only about FL in FedCampus
 - How to train models
     - Story: how we transitioned from an FL service to Flower
     - Needs
-        - Support Android + iOS
-        - App updates for model changes
+        - Android + iOS
+        - No app updates on model changes
         - User experience
     - FedKit
         - Cross-platform model pipeline
@@ -61,3 +61,12 @@ Fences: only about FL in FedCampus
     - Cross-platform FL
     - MLOps
     - Efficient training
+
+## BIO
+
+Steven "Hé Sīchàng" ([pronunciation:
+Heh?-sii-chang](https://translate.google.com/?text=%E4%BD%95%E6%80%9D%E7%95%85))
+is an undergraduate student at Duke Kunshan University,
+and is going to join the computer science Ph.D. program at the University of
+Southern California. Interested in systems and networking,
+he is a founding member of the FedCampus project and has been leading it.
