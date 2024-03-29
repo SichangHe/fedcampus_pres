@@ -32,55 +32,52 @@ UG Studies 本科生项目 -->
     - random lunch talks
 -->
 
-I serve as a representation for the Research and Practice principle for two
-reasons:
-I have been consistently exploring and learning through research and practice,
-and I have been spreading my ideas in these in an effort to inspire other DKU
-students.
+I serve as a representation for the Research and Practice principle both on my
+personal level and towards the DKU community. Since my sophomore year,
+I have constantly being pursuing research and personal projects beyond my
+academic curriculum.
+I find these experiences instrumental in honing my technical and communication
+skills, way beyond classroom teachings. And,
+I have been actively sharing these ideas to inspire fellow DKU students.
 
-Since my sophomore year,
-I have been trying to explore and learn via constantly doing research and personal
-projects outside of classes.
-I find these experiences massively valuable to my growth in technical and communication skills.
+My research journey began with the search engine research team under Professor
+Jiang Long's guidance. Through this project,
+I was surprised to see us undergrads' potential to develop significant software
+projects like web search engines. Besides absorbing knowledge about the web,
+I saw the need for programming languages suitable for massive concurrency,
+and delved into learning many programming languages for my hobby projects,
+which helped me build up programming skills and gain a much deeper understanding
+in programming.
 
-I was fortunate to start this journey by joining The Search So Search Engine
-Research Team, advised by Professor Jiang Long. Diving into this project,
-I was surprised to see even undergrads have the potential to build a remarkable
-software project, a web search engine,
-by developing programs to scrape the web and index its contents as text.
-Besides absorbing new knowledge about HTTP, HTML, and other aspects of the web,
-I saw the need and potential for programming massively concurrent and robust
-software for web-related tasks.
-This inspired me to learn many programming languages prioritizing concurrency,
-helping me build up programming skills and gain a much
-deeper understanding in programming that I otherwise would not have if I were
-only to focus on classes.
+Besides programming practice,
+the search engine project inspired my curiosity in web programming,
+leading me to various side projects. For example,
+I joined the DKU 2022 iGEM team and developed the team wiki,
+a website to demonstrate our results to the judges. In this role,
+I mentor team members collaborative wiki writing and technical issues. Moreover,
+I stepped up to maintain mdBook-KaTeX,
+an open-source project our wiki depended on.
 
-Besides the practice on programming,
-the search engine project also inspire my curiosity in web programming and led me to many other side projects.
-I joined DKU 2022 iGEM team to author the team wiki,
-a static site to show the iGEM judges our experiment and community involvement.
-During this time, I mentored iGEM biology team members to collaborate in wiki writing on GitLab and
-helped them resolve technical issues.
-I also stepped up to maintain mdBook-KaTeX, an open source project the wiki relied on.
+Transitioning into my junior year, eager to explore the forefront of research,
+I joined Professor Bing Luo's lab and led The FedCampus Team. Our contributes
+are evident in a campus-wide federated analytics program,
+and an IEEE demo paper on mobile federated learning. Beyond research,
+I engaged with teammates and peers on topics ranging from programming to time
+and motivation management, enhancing our research and practice.
+I also gave numerous FedCampus applicants and other interested students brief
+overviews on its technical aspects such as federated learning and web
+development to encourage their research.
 
-In my junior year, to explore the forefront of research,
-I competed into Professor Bing Luo's lab and soon started leading The FedCampus Team.
-Our contributions are demonstrated in the campus-wide federated analytics program and
-our research paper *FedKit: Enabling Cross-Platform Federated Learning for Android and iOS*.
-Beyond my own research, I often discuss with my teammates, other undergrads,
-about programming, time management, motivation, and other topics where I believed would enhance our research and practice.
-I also talked to applicants and other students interested in the FedCampus about these topics,
-plus brief overviews on technical subjects such as federated learning and web development to help them start their research.
+On a day-by-day basis,
+I actively shared my experiences and ideas on research and practice with fellow
+DKU students, advocating for project-based learning and research opportunities.
+Whether through formal advice seeking,
+or casual conversations during extracurricular activities such as running club
+practice or a meal together,
+I encouraged my peers to explore their academic potential beyond coursework.
+My guidance covered topics such as approaching faculty for research
+opportunities and navigating career decisions.
 
-I have spread my experience and ideas in terms of research and practice among a
-few dozens of lower-class DKU students.
-Some of these students reached out to me,
-while others simply started in a chat during activities,
-such as running club practice or a meal together.
-I discuss how they should learn more at DKU by doing projects outside of
-classes, how they can build up their own skills by doing side projects,
-how they can seek research opportunities by approaching faculty members
-properly,
-and how they may think about their career plans in terms of work versus graduate
-schools.
+In summary, my commitment to research and practice,
+coupled with my efforts to inspire and mentor others,
+exemplifies the spirit of the Research and Practice principle at DKU.
