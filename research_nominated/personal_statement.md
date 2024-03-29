@@ -73,6 +73,9 @@ I worked with Professor Italo Cunha on Internet Route Verification.
 We built a complex parser to decode interdomain routing policies,
 and leveraged this system to check for potential network operator mistakes,
 which we are preparing to report in an ACM IMC short paper submission.
+Not only did I explore deep into the Internet in this project,
+but it also consolidated my research direction for my upcoming Ph.D. studies at
+USC.
 
 On a day-by-day basis,
 I actively share my experiences and ideas on research and practice with fellow
