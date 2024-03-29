@@ -32,25 +32,27 @@ UG Studies 本科生项目 -->
     - random lunch talks
 -->
 
-I serve as a representation for the Research and Practice principle both on my
-personal level and towards the DKU community. Since my sophomore year,
-I have constantly being pursuing research and personal projects beyond my
-academic curriculum.
-I find these experiences instrumental in honing my technical and communication
-skills, way beyond classroom teachings. And,
-I have been actively sharing these ideas to inspire fellow DKU students.
+My commitment for the Research and Practice principle is evident both in my
+personal endeavors and my contributions to the DKU community.
+Since my sophomore year,
+I kept pursuing research and personal projects beyond my academic curriculum,
+which I find instrumental in honing my technical and communication skills,
+way beyond classroom teachings. Additionally,
+I have been actively sharing these experiences and ideas to inspire fellow DKU
+students.
 
 My research journey began with the search engine research team under Professor
 Jiang Long's guidance. Through this project,
 I was surprised to see us undergrads' potential to develop significant software
-projects like web search engines. Besides absorbing knowledge about the web,
-I saw the need for programming languages suitable for massive concurrency,
-and delved into learning many programming languages for my hobby projects,
-which helped me build up programming skills and gain a much deeper understanding
-in programming.
+projects like web search engines.
+As I delved into web development,
+I recognized the need for mastering programming languages suitable for massive concurrency.
+This realization prompted me to learning many programming languages through hobby projects,
+significantly enhancing my programming skills and deepened my understanding
+of the field.
 
 Besides programming practice,
-the search engine project inspired my curiosity in web programming,
+the search engine project inspired my curiosity in web development,
 leading me to various side projects. For example,
 I joined the DKU 2022 iGEM team and developed the team wiki,
 a website to demonstrate our results to the judges. In this role,
@@ -59,7 +61,7 @@ I stepped up to maintain mdBook-KaTeX,
 an open-source project our wiki depended on.
 
 Transitioning into my junior year, eager to explore the forefront of research,
-I joined Professor Bing Luo's lab and led The FedCampus Team. Our contributes
+I joined Professor Bing Luo's lab and led The FedCampus Team. Our contributions
 are evident in a campus-wide federated analytics program,
 and an IEEE INFOCOM demo paper on mobile federated learning. Beyond research,
 I engaged with teammates and peers on topics ranging from programming to time
@@ -79,11 +81,11 @@ USC.
 
 On a day-by-day basis,
 I actively share my experiences and ideas on research and practice with fellow
-DKU students, advocating for project-based learning and research opportunities.
-Whether through formal advice seeking,
+DKU students, advocating for project-based learning.
+I encouraged my peers to explore their academic potential beyond coursework,
+whether through formal consultations,
 or casual conversations during extracurricular activities such as running club
-practice or a meal together,
-I encouraged my peers to explore their academic potential beyond coursework.
+practice or a meal together.
 My guidance covered topics such as approaching faculty for research
 opportunities and navigating career decisions.
 
