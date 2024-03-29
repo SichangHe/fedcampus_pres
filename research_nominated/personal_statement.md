@@ -89,6 +89,7 @@ practice or a meal together.
 My guidance covered topics such as approaching faculty for research
 opportunities and navigating career decisions.
 
-In summary, my commitment to research and practice,
-coupled with my efforts to inspire and mentor others,
+In summary,
+my commitment to research and practice in the form of research and personal
+projects, coupled with my efforts to inspire and mentor others,
 exemplifies the spirit of the Research and Practice principle at DKU.
