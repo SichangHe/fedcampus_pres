@@ -61,15 +61,21 @@ an open-source project our wiki depended on.
 Transitioning into my junior year, eager to explore the forefront of research,
 I joined Professor Bing Luo's lab and led The FedCampus Team. Our contributes
 are evident in a campus-wide federated analytics program,
-and an IEEE demo paper on mobile federated learning. Beyond research,
+and an IEEE INFOCOM demo paper on mobile federated learning. Beyond research,
 I engaged with teammates and peers on topics ranging from programming to time
 and motivation management, enhancing our research and practice.
 I also gave numerous FedCampus applicants and other interested students brief
 overviews on its technical aspects such as federated learning and web
 development to encourage their research.
 
+Concurrently,
+I worked with Professor Italo Cunha on Internet Route Verification.
+We built a complex parser to decode interdomain routing policies,
+and leveraged this system to check for potential network operator mistakes,
+which we are preparing to report in an ACM IMC short paper submission.
+
 On a day-by-day basis,
-I actively shared my experiences and ideas on research and practice with fellow
+I actively share my experiences and ideas on research and practice with fellow
 DKU students, advocating for project-based learning and research opportunities.
 Whether through formal advice seeking,
 or casual conversations during extracurricular activities such as running club
