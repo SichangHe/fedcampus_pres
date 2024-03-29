@@ -21,6 +21,8 @@ For any inquiries, feel free to contact us.
 Best wishes,
 UG Studies 本科生项目 -->
 
+<!-- # Outline
+
 - research
     - Search So
     - FedCampus
@@ -28,3 +30,57 @@ UG Studies 本科生项目 -->
 - community
     - recruitment
     - random lunch talks
+-->
+
+I serve as a representation for the Research and Practice principle for two
+reasons:
+I have been consistently exploring and learning through research and practice,
+and I have been spreading my ideas in these in an effort to inspire other DKU
+students.
+
+Since my sophomore year,
+I have been trying to explore and learn via constantly doing research and personal
+projects outside of classes.
+I find these experiences massively valuable to my growth in technical and communication skills.
+
+I was fortunate to start this journey by joining The Search So Search Engine
+Research Team, advised by Professor Jiang Long. Diving into this project,
+I was surprised to see even undergrads have the potential to build a remarkable
+software project, a web search engine,
+by developing programs to scrape the web and index its contents as text.
+Besides absorbing new knowledge about HTTP, HTML, and other aspects of the web,
+I saw the need and potential for programming massively concurrent and robust
+software for web-related tasks.
+This inspired me to learn many programming languages prioritizing concurrency,
+helping me build up programming skills and gain a much
+deeper understanding in programming that I otherwise would not have if I were
+only to focus on classes.
+
+Besides the practice on programming,
+the search engine project also inspire my curiosity in web programming and led me to many other side projects.
+I joined DKU 2022 iGEM team to author the team wiki,
+a static site to show the iGEM judges our experiment and community involvement.
+During this time, I mentored iGEM biology team members to collaborate in wiki writing on GitLab and
+helped them resolve technical issues.
+I also stepped up to maintain mdBook-KaTeX, an open source project the wiki relied on.
+
+In my junior year, to explore the forefront of research,
+I competed into Professor Bing Luo's lab and soon started leading The FedCampus Team.
+Our contributions are demonstrated in the campus-wide federated analytics program and
+our research paper *FedKit: Enabling Cross-Platform Federated Learning for Android and iOS*.
+Beyond my own research, I often discuss with my teammates, other undergrads,
+about programming, time management, motivation, and other topics where I believed would enhance our research and practice.
+I also talked to applicants and other students interested in the FedCampus about these topics,
+plus brief overviews on technical subjects such as federated learning and web development to help them start their research.
+
+I have spread my experience and ideas in terms of research and practice among a
+few dozens of lower-class DKU students.
+Some of these students reached out to me,
+while others simply started in a chat during activities,
+such as running club practice or a meal together.
+I discuss how they should learn more at DKU by doing projects outside of
+classes, how they can build up their own skills by doing side projects,
+how they can seek research opportunities by approaching faculty members
+properly,
+and how they may think about their career plans in terms of work versus graduate
+schools.
