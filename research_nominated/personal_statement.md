@@ -20,3 +20,11 @@ For any inquiries, feel free to contact us.
  
 Best wishes,
 UG Studies 本科生项目 -->
+
+- research
+    - Search So
+    - FedCampus
+    - Internet route verification
+- community
+    - recruitment
+    - random lunch talks
