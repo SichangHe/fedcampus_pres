@@ -1,4 +1,4 @@
-# Personal Statement for The Research and Practice Nomination
+# Personal Statement: Research and Practice Nomination
 
 <!-- Dear Steven,
  
