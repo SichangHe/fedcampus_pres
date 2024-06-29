@@ -17,7 +17,6 @@
 # Documents
 **.csv
 **.doc*
-**.pdf
 **.ppt*
 **.txt
 **.vsd*
@@ -53,7 +52,6 @@
 **.mj2
 **.mng
 **.pdf
-**.png
 **.raw
 **.svg
 **.svgz
